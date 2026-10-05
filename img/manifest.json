@@ -1,0 +1,326 @@
+{
+  "widths": [
+    480,
+    960,
+    1600,
+    2400
+  ],
+  "formats": [
+    "avif",
+    "webp"
+  ],
+  "images": {
+    "cigkoftem/burger": {
+      "src": "assets-src/cigkoftem/burger.jpg",
+      "width": 720,
+      "height": 900,
+      "aspect": 0.8,
+      "bg": "#4E4C49",
+      "crop": null,
+      "sizes": [
+        {
+          "w": 480,
+          "h": 600,
+          "avif": "/img/cigkoftem/burger-480.avif",
+          "webp": "/img/cigkoftem/burger-480.webp"
+        },
+        {
+          "w": 720,
+          "h": 900,
+          "avif": "/img/cigkoftem/burger-720.avif",
+          "webp": "/img/cigkoftem/burger-720.webp"
+        }
+      ]
+    },
+    "cigkoftem/logo": {
+      "src": "assets-src/cigkoftem/logo.png",
+      "width": 639,
+      "height": 144,
+      "aspect": 4.4375,
+      "bg": "#FFFFFF",
+      "crop": null,
+      "sizes": [
+        {
+          "w": 480,
+          "h": 108,
+          "avif": "/img/cigkoftem/logo-480.avif",
+          "webp": "/img/cigkoftem/logo-480.webp"
+        },
+        {
+          "w": 639,
+          "h": 144,
+          "avif": "/img/cigkoftem/logo-639.avif",
+          "webp": "/img/cigkoftem/logo-639.webp"
+        }
+      ]
+    },
+    "cigkoftem/terrace": {
+      "src": "assets-src/cigkoftem/terrace.jpg",
+      "width": 720,
+      "height": 1040,
+      "aspect": 0.6923,
+      "bg": "#624137",
+      "crop": null,
+      "sizes": [
+        {
+          "w": 480,
+          "h": 693,
+          "avif": "/img/cigkoftem/terrace-480.avif",
+          "webp": "/img/cigkoftem/terrace-480.webp"
+        },
+        {
+          "w": 720,
+          "h": 1040,
+          "avif": "/img/cigkoftem/terrace-720.avif",
+          "webp": "/img/cigkoftem/terrace-720.webp"
+        }
+      ]
+    },
+    "miryas/logo": {
+      "src": "assets-src/miryas/logo.jpg",
+      "width": 1352,
+      "height": 1970,
+      "aspect": 0.6863,
+      "bg": "#FCFCFC",
+      "crop": null,
+      "sizes": [
+        {
+          "w": 480,
+          "h": 699,
+          "avif": "/img/miryas/logo-480.avif",
+          "webp": "/img/miryas/logo-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1399,
+          "avif": "/img/miryas/logo-960.avif",
+          "webp": "/img/miryas/logo-960.webp"
+        },
+        {
+          "w": 1352,
+          "h": 1970,
+          "avif": "/img/miryas/logo-1352.avif",
+          "webp": "/img/miryas/logo-1352.webp"
+        }
+      ]
+    },
+    "spacehair/front": {
+      "src": "assets-src/spacehair/front.jpg",
+      "width": 1122,
+      "height": 1402,
+      "aspect": 0.8003,
+      "bg": "#121010",
+      "crop": null,
+      "sizes": [
+        {
+          "w": 480,
+          "h": 600,
+          "avif": "/img/spacehair/front-480.avif",
+          "webp": "/img/spacehair/front-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1200,
+          "avif": "/img/spacehair/front-960.avif",
+          "webp": "/img/spacehair/front-960.webp"
+        },
+        {
+          "w": 1122,
+          "h": 1402,
+          "avif": "/img/spacehair/front-1122.avif",
+          "webp": "/img/spacehair/front-1122.webp"
+        }
+      ]
+    },
+    "spacehair/set": {
+      "src": "assets-src/spacehair/set.jpg",
+      "width": 1672,
+      "height": 941,
+      "aspect": 1.7768,
+      "bg": "#24201F",
+      "crop": null,
+      "sizes": [
+        {
+          "w": 480,
+          "h": 270,
+          "avif": "/img/spacehair/set-480.avif",
+          "webp": "/img/spacehair/set-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 540,
+          "avif": "/img/spacehair/set-960.avif",
+          "webp": "/img/spacehair/set-960.webp"
+        },
+        {
+          "w": 1672,
+          "h": 941,
+          "avif": "/img/spacehair/set-1672.avif",
+          "webp": "/img/spacehair/set-1672.webp"
+        }
+      ]
+    },
+    "swan/diagnostics": {
+      "src": "assets-src/swan/diagnostics.jpg",
+      "width": 720,
+      "height": 900,
+      "aspect": 0.8,
+      "bg": "#9A95A0",
+      "crop": null,
+      "sizes": [
+        {
+          "w": 480,
+          "h": 600,
+          "avif": "/img/swan/diagnostics-480.avif",
+          "webp": "/img/swan/diagnostics-480.webp"
+        },
+        {
+          "w": 720,
+          "h": 900,
+          "avif": "/img/swan/diagnostics-720.avif",
+          "webp": "/img/swan/diagnostics-720.webp"
+        }
+      ]
+    },
+    "swan/interior": {
+      "src": "assets-src/swan/interior.jpg",
+      "width": 470,
+      "height": 825,
+      "aspect": 0.5697,
+      "bg": "#B19B83",
+      "crop": null,
+      "sizes": [
+        {
+          "w": 470,
+          "h": 825,
+          "avif": "/img/swan/interior-470.avif",
+          "webp": "/img/swan/interior-470.webp"
+        }
+      ]
+    },
+    "swan/logo": {
+      "src": "assets-src/swan/logo.png",
+      "width": 1600,
+      "height": 1891,
+      "aspect": 0.8461,
+      "bg": "#1C140D",
+      "crop": null,
+      "sizes": [
+        {
+          "w": 480,
+          "h": 567,
+          "avif": "/img/swan/logo-480.avif",
+          "webp": "/img/swan/logo-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1135,
+          "avif": "/img/swan/logo-960.avif",
+          "webp": "/img/swan/logo-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 1891,
+          "avif": "/img/swan/logo-1600.avif",
+          "webp": "/img/swan/logo-1600.webp"
+        }
+      ]
+    },
+    "tlab/kit": {
+      "src": "assets-src/tlab/kit.jpg",
+      "width": 2000,
+      "height": 2000,
+      "aspect": 1,
+      "bg": "#FFFFFF",
+      "crop": null,
+      "sizes": [
+        {
+          "w": 480,
+          "h": 480,
+          "avif": "/img/tlab/kit-480.avif",
+          "webp": "/img/tlab/kit-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 960,
+          "avif": "/img/tlab/kit-960.avif",
+          "webp": "/img/tlab/kit-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 1600,
+          "avif": "/img/tlab/kit-1600.avif",
+          "webp": "/img/tlab/kit-1600.webp"
+        },
+        {
+          "w": 2000,
+          "h": 2000,
+          "avif": "/img/tlab/kit-2000.avif",
+          "webp": "/img/tlab/kit-2000.webp"
+        }
+      ]
+    },
+    "tlab/logo": {
+      "src": "assets-src/tlab/logo.png",
+      "width": 1600,
+      "height": 508,
+      "aspect": 3.1496,
+      "bg": "#FFFFFF",
+      "crop": null,
+      "sizes": [
+        {
+          "w": 480,
+          "h": 152,
+          "avif": "/img/tlab/logo-480.avif",
+          "webp": "/img/tlab/logo-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 305,
+          "avif": "/img/tlab/logo-960.avif",
+          "webp": "/img/tlab/logo-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 508,
+          "avif": "/img/tlab/logo-1600.avif",
+          "webp": "/img/tlab/logo-1600.webp"
+        }
+      ]
+    },
+    "tlab/tubes": {
+      "src": "assets-src/tlab/tubes.jpg",
+      "width": 2400,
+      "height": 2400,
+      "aspect": 1,
+      "bg": "#FFFFFF",
+      "crop": null,
+      "sizes": [
+        {
+          "w": 480,
+          "h": 480,
+          "avif": "/img/tlab/tubes-480.avif",
+          "webp": "/img/tlab/tubes-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 960,
+          "avif": "/img/tlab/tubes-960.avif",
+          "webp": "/img/tlab/tubes-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 1600,
+          "avif": "/img/tlab/tubes-1600.avif",
+          "webp": "/img/tlab/tubes-1600.webp"
+        },
+        {
+          "w": 2400,
+          "h": 2400,
+          "avif": "/img/tlab/tubes-2400.avif",
+          "webp": "/img/tlab/tubes-2400.webp"
+        }
+      ]
+    }
+  }
+}
